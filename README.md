@@ -1,4 +1,4 @@
-This repository provides R code implementing Robust small area estimation with density power divergence, as proposed by the following paper.
+This repository provides R code implementing robust small area estimation with density power divergence, as proposed by the following paper.
 
 Sugasawa, S. (2020).  Robust empirical Bayes small area estimation with density power divergence. *Biometrika* 107, 467-480.  
 arXiv: https://arxiv.org/abs/1702.06635  
