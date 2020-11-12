@@ -7,7 +7,7 @@ online article: https://academic.oup.com/biomet/article-abstract/107/2/467/57174
 
 The repository includes the following 4 files.
 
-RSAE-function.R : Script implementing the proposed method
-demo.R : Script applying the proposed method to the simulated dataset
-simdata.RData: Simulated data
-sim_data.R: Script for generating the simulated dataset
+RSAE-function.R : Script implementing the proposed method  
+demo.R : Script applying the proposed method to the simulated dataset  
+simdata.RData: Simulated data  
+sim_data.R: Script for generating the simulated dataset  
